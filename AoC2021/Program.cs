@@ -7,4 +7,4 @@ Console.WriteLine("Hello, World!");
 
 var program = new Day_03();
 
-program.Run();
+program.Run_Part2();

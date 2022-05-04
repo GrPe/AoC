@@ -8,6 +8,20 @@ namespace AoC2021.Data
 {
     internal class day_03
     {
+        public const string test_data = @"00100
+11110
+10110
+10111
+10101
+01111
+00111
+11100
+10000
+11001
+00010
+01010";
+
+
         public const string data = @"001110000001
 010100101000
 101101010010
