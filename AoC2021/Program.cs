@@ -5,6 +5,6 @@ using BenchmarkDotNet.Running;
 
 Console.WriteLine("Hello, World!");
 
-var program = new Day_03();
+var program = new Day_04();
 
-program.Run_Part2();
+program.RunPart02();
