@@ -2,7 +2,7 @@
 
 using AoC2022;
 
-Day_10 program = new();
+Day_11 program = new();
 
 program.Part1();
 program.Part2();
